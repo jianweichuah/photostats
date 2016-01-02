@@ -8,7 +8,7 @@ angular.module('photostatsApp', [
       templateUrl: 'templates/main.html'
     })
     .when('/profile', {
-      templateUrl: 'template/profile.html'
+      templateUrl: 'templates/profile.html'
     })
     .otherwise({
       redirectTo: '/'
