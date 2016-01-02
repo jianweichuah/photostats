@@ -17,13 +17,11 @@ body {
 
 a {
   color: #ffffff;
-  opacity: 0.5;
   text-decoration: none;
 }
 
 a:hover, a:focus{
   color: #fff;
-  opacity: 1;
   text-decoration: none;
 }
 
